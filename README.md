@@ -1,5 +1,5 @@
 # ESP32-P4-3.4-DSI-TOUCH-C-PCM5102MK-DAC
-A simple project to create a music/radio player using a ESP32-P4 Module DEV KIT, PCM5102MK DAC Audio Decoder Module V2.0 - I2S and Waveshare 3.4inch DSI Round Capacitive Touch Display, 800×800 Resolution, IPS Display Panel, 10-Point Touch (3.4-DSI-TOUCH-C)<br>
+A simple project to create a music/radio player using a ESP32-P4 Module DEV KIT, PCM5102MK DAC Audio Decoder Module V2.0 - I2S and Waveshare 3.4inch DSI Round Capacitive Touch Display, 800×800 Resolution, IPS Display Panel, 10-Point Touch (3.4-DSI-TOUCH-C)<br><br><br>
 <img src="https://github.com/user-attachments/assets/79db3604-87d5-4904-b96b-7099dc5c9f9a" width="300" height="400" />
 <img src="https://github.com/user-attachments/assets/ddcdd6c3-cb3d-4fd1-9f01-20f64907cda7" width="230" height="300" />
 
