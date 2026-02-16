@@ -48,7 +48,7 @@ String password = "PASSWORD";
 Audio audio;
 String currentStation = "RADIO 538";
 String currentInfo = "Starting...";
-const int maxVolume = 30;
+const int maxVolume = 5; // 5 for now 21 = max
 
 // Station list
 struct Station {
