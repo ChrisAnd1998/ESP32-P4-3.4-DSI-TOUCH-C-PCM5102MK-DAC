@@ -35,3 +35,6 @@ https://www.waveshare.com/wiki/ESP32-P4-Module-DEV-KIT-StartPage
 ## Libraries
 GFX Library for Arduino
 https://github.com/moononournation/Arduino_GFX
+<br>
+ESP32 audioI2S
+https://github.com/schreibfaul1/ESP32-audioI2S
